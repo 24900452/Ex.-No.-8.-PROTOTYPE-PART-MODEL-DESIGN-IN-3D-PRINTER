@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![WhatsApp Image 2024-12-04 at 12 04 24_81fd8bea](https://github.com/user-attachments/assets/f70e5112-e99d-4f95-bab1-9bb01b6543b3)
+![image](https://github.com/user-attachments/assets/4cfc4ff3-d53a-472a-a333-071ba375ff66)
+
 
 ### Name: JOTHI GANESH P
 ### Register Number:24900452
